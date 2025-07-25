@@ -3,4 +3,6 @@
 ## 网心云onething1/wxedge
 # FROM onething1/wxedge:latest
 ## prom/alertmanager
-FROM prom/alertmanager:latest
+# FROM prom/alertmanager:latest
+## grafana/promtail
+FROM grafana/promtail:3.2.1
