@@ -5,4 +5,6 @@
 ## prom/alertmanager
 # FROM prom/alertmanager:latest
 ## grafana/promtail
-FROM grafana/promtail:3.2.1
+# FROM grafana/promtail:3.2.1
+## grafana/loki
+FROM grafana/loki:3.2.1
