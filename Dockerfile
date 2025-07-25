@@ -7,4 +7,6 @@
 ## grafana/promtail
 # FROM grafana/promtail:3.2.1
 ## grafana/loki
-FROM grafana/loki:3.2.1
+# FROM grafana/loki:3.2.1
+## grafana/grafana
+FROM grafana/grafana:latest
