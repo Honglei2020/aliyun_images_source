@@ -9,4 +9,4 @@
 ## grafana/loki
 # FROM grafana/loki:3.2.1
 ## grafana/grafana
-FROM calico/csi:v3.26.5
+FROM calico/node-driver-registrar:v3.26.5
